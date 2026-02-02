@@ -1,6 +1,6 @@
 # FT-Photography Portfolio
 
-Welcome to the **FT-Photography** repository. This project showcases a professional photography portfolio, highlighting creative works and visual storytelling.
+Welcome to the **FT-Photography** repository. This project showcases an example of professional photography portfolio, highlighting creative works and visual storytelling.
 
 ## Project Overview
 
